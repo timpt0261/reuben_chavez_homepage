@@ -1,0 +1,28 @@
+{
+  "name": "reuben_chavez_homepage",
+  "version": "1.0.0",
+  "description": "Reuben Chavez's Online Portfolio",
+  "scripts": {
+	"dev": "next dev -H 0.0.0.0",
+	"build": "next build",
+	"prettier": "prettier -write .",
+	"lint": "next lint"	
+  },
+  "keywords": [],
+  "author": "Reuben Chavez<rchavez0215@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@chakra-ui/react": "^2.4.6",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "framer-motion": "^8.1.3",
+    "next": "^13.1.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.31.0",
+    "eslint-config-next": "^13.1.1",
+    "prettier": "^2.8.1"
+  }
+}
